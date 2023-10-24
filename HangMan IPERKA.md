@@ -1,26 +1,26 @@
 ## Informieren
-
 - Wer will von wem was?
-
-Wir wollen von uns ein HangMan-Spiel
+  
+  - Wir wollen von uns ein HangMan-Spiel
 
 - Wie heisst der Auftrag/die Aufgabe?
+  
+  - Programmieren üben, indem man ein Projekt erstellt
 
-Programmieren üben, indem man ein Projekt erstellt
 - Wozu dient es?
+  - Um Programmieren zu üben
 
-Um Programmieren zu üben
 - Wie muss es sein?
+  - einfach für den Benutzer
+    mit ASCII-Character gezeichnet
 
-einfach für den Benutzer
-mit ASCII-Character gezeichnet
 - Wann muss es fertig sein?
+  - während die 2 Lernperiode
 
-während die 2 Lernperiode
 - Optional
   - Wer nutzt es?
- Jemand, der es nicht programmiert hat
----
+    - Jemand, der es nicht programmiert hat
+   
 
 ## Planen
 
