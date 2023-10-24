@@ -1,6 +1,9 @@
 ## Informieren
 
 - Wer will von wem was?
+
+Wir wollen von uns ein HangMan-Spiel
+
 - Wie heisst der Auftrag/die Aufgabe?
 - Wozu dient es?
 - Wie muss es sein?
