@@ -5,7 +5,7 @@
 Wir wollen von uns ein HangMan-Spiel
 
 - Wie heisst der Auftrag/die Aufgabe?
-  Programmieren üben, indem man ein Projekt erstellt
+Programmieren üben, indem man ein Projekt erstellt
 - Wozu dient es?
   Um Programmieren zu üben
 - Wie muss es sein?
