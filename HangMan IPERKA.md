@@ -12,7 +12,7 @@
 
 - Wie muss es sein?
   - einfach für den Benutzer
-    mit ASCII-Character gezeichnet
+  - mit ASCII-Character gezeichnet
 
 - Wann muss es fertig sein?
   - während die 2 Lernperiode
