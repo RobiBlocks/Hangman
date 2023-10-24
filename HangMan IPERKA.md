@@ -25,12 +25,30 @@
 ## Planen
 
 - Welche Prioritäten hat der Auftrag?
+  
+  - der benutzer kann Buchtsaben eingeben
+    
+    - schauen, ob sie in wort vorhanden sind
+      
+      - sind sie vorhanden, erscheien sie auf ihren richtigen platz
+      
+      - sind sie nicht, hang man wird weiter gezeichnet, und es gibt eine falsche Buchstaben übersicht machen
+  
+  - **Wörte in buchstaben umwandeln = string to char**
+  
+  - das es jede eingabe de screen refresh macht
+  
+  - Versuche Zählen lassen, nur wenn sie Falsch ist
+
 - Sind die Meilensteine zeitlich definiert?
+  
+  abgabe 19.12
+
 - Welches sind die Prüfkriterien?
-- Optional
-  - Wer verarbeitet was?
-  - Ist die zeitliche Planung realistisch?
-  - Welche Ressourcen stehen zur Verfugung?
+  
+  - benutzer kann NUR die char eingeben, also nur eine buchstabe auf einmal
+    
+    - prüfen einbauen
 
 ---
 
